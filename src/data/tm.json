@@ -1,43 +1,11 @@
 {
-  "tm1": "",
-  "tm2": "",
-  "tm3": "",
-  "tm_mb": [
-    {
-      "tm_mb_img": "",
-      "tm_mb1": "",
-      "tm_mb2": "",
-      "tm_mb3": ""
-    },
-    {
-      "tm_mb_img": "",
-      "tm_mb1": "",
-      "tm_mb2": "",
-      "tm_mb3": ""
-    },
-    {
-      "tm_mb_img": "",
-      "tm_mb1": "",
-      "tm_mb2": "",
-      "tm_mb3": ""
-    },
-    {
-      "tm_mb_img": "",
-      "tm_mb1": "",
-      "tm_mb2": "",
-      "tm_mb3": "" 
-    },
-    {
-      "tm_mb_img": "",
-      "tm_mb1": "",
-      "tm_mb2": "",
-      "tm_mb3": ""
-    },
-    {
-      "tm_mb_img": "",
-      "tm_mb1": "",
-      "tm_mb2": "",
-      "tm_mb3": ""
-    }
-  ]
+    "tm1": "Agustín Donoso",
+    "tm2": "",
+    "tm3": "Estudiante de Ingeniería Comercial y socio en el proyecto Game Time, con planes de iniciar un Magister en Business Analytics en 2025.",
+    "tm_mb": [{ 
+      "tm_mb_img": "https://media.discordapp.net/attachments/1196897581981253786/1196996179729317938/aguaIA2.png?ex=65b9a890&is=65a73390&hm=d65797e9efdaa5d305b09a04504d9f269cb98539eba8ba43a7e9675bef4a67dd&=&format=webp&quality=lossless&width=724&height=1138",
+      "tm_mb1": "Agustín Donoso",
+      "tm_mb2": "Socio en Game Time, estudiante de Ingeniería Comercial",
+      "tm_mb3": "Agustín Donoso, estudiante de Ingeniería Comercial en su cuarto año, planea comenzar un Magister en Business Analytics en 2025. Trabaja en Game Time, un proyecto de streamings y contenido deportivo que incluye indumentarias y planes de expansión en marketing y apoyo a asociaciones deportivas y clubes deportivos. Apasionado por la filosofía, la salud mental y el deporte de alto rendimiento, Agustín se esfuerza por visibilizar temas relevantes como la salud mental y la desmotivación en la vida universitaria a través de su página."
+      }]
 }

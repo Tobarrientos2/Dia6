@@ -1,47 +1,12 @@
 {
   "bf": {
-    "bf_1": "",
-    "bf_2": "",
-    "bf_3": "",
-    "bf_dt": [
-      { "bf_dt_img": "",
-        "bf_dt_1": "",
-        "bf_dt_2": ""
-      },
-      {"bf_dt_img": "",
-        "bf_dt_1": "",
-        "bf_dt_2": ""
-      },
-      {"bf_dt_img": "",
-        "bf_dt_1": "",
-        "bf_dt_2": ""
-      },
-      {"bf_dt_img": "",
-        "bf_dt_1": "",
-        "bf_dt_2": ""
-      },
-      {"bf_dt_img": "",
-        "bf_dt_1": "",
-        "bf_dt_2": ""
-      },
-      {"bf_dt_img": "",
-        "bf_dt_1": "",
-        "bf_dt_2": ""
-      }
-    ],
-    "bf_co": [
-      {
-        "bf_co1": "",
-        "bf_co2": ""
-      },
-      {
-        "bf_co1": "",
-        "bf_co2": ""
-      },
-      {
-        "bf_co1": "",
-        "bf_co2": ""
-      }
-    ]
+    "bf_1": "Agustín Donoso, estudiante de Ingeniería Comercial, planifica estudiar un Magíster en Business Analytics.",
+    "bf_2": "Agustín se involucra en varios proyectos, incluido su emprendimiento 'Game Time', que se centra en streaming y marketing deportivo. Además, tiene un profundo interés en la filosofía y la salud mental, abordando temas de desmotivación y problemas juveniles.",
+    "bf_3": "Agustín combina su amor por el deporte y la salud mental de una manera entretenida y educativa, enfocándose en aspectos vitales de la vida juvenil.",
+    "bf_dt": [{
+      "bf_dt_img": "Imagen representativa de Agustín o su proyecto Game Time.",
+      "bf_dt_1": "Emprendimiento y Pasión por la Salud Mental y el Deporte",
+      "bf_dt_2": "Agustín aporta una perspectiva única al combinar su experiencia deportiva con su enfoque en la salud mental y el emprendimiento, promoviendo un bienestar integral."
+    }]
   }
 }

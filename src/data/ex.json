@@ -1,157 +1,16 @@
 {   
     "ex": [
-      {
-      "ex_img": "",
-      "ex_1": "",
-      "ex_slug": "",
-      "ex_url": "",
-      "ex_2": "",
-      "ex_3": "",
-      "ex_dt": [
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        }
-      ]
-    },
-    {
-      "ex_img": "",
-      "ex_1": "",
-      "ex_slug": "",
-      "ex_url": "",
-      "ex_2": "",
-      "ex_3": "",
-      "ex_dt": [
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        }
-      ]
-    },
-    {
-      "ex_img": "",
-      "ex_1": "",
-      "ex_slug": "",
-      "ex_url": "",
-      "ex_2": "",
-      "ex_3": "",
-      "ex_dt": [
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        }
-      ]
-    },
-    {
-      "ex_img": "",
-      "ex_1": "",
-      "ex_slug": "",
-      "ex_url": "",
-      "ex_2": "",
-      "ex_3": "",
-      "ex_dt": [
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        }
-      ]
-    },
-    {
-      "ex_img": "",
-      "ex_1": "",
-      "ex_slug": "",
-      "ex_url": "",
-      "ex_2": "",
-      "ex_3": "",
-      "ex_dt": [
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        },
-        {
-          "ex_dt1": "",
-          "ex_dt2": ""
-        }
-      ]
-    },
-    {
-      "ex_img": "",
-        "ex_1": "",
-        "ex_slug": "",
-        "ex_2": "",
-        "ex_3": "",
-        "ex_url": "",
-        "ex_dt": [
-          {
-            "ex_dt1": "",
-            "ex_dt2": ""
-          }
-        ]
-      }
-    ],
-    "cl": [
-        {
-          "cl_1": "",
-        "cl_2": "",
-        "cl_3": "",
-      "cl_img": ""
-    },
-    {
-      "cl_1": "",
-    "cl_2": "",
-    "cl_3": "",
-  "cl_img": ""
-},
-{
-  "cl_1": "",
-"cl_2": "",
-"cl_3": "",
-"cl_img": ""
-}
-      ]
+      { "ex_img": "",  
+      "ex_slug": "agustin-Donoso-estudiante-ingenieria-comercial-game-time-filosofo", 
+      "ex_url": "",  
+      "ex_1": "Agustín Donoso: Estudiante, Emprendedor y Filósofo",
+      "ex_2": "Emprendedor en Game Time, Estudiante de Ingeniería Comercial y apasionado por la filosofía",
+      "ex_3": "Agustín Donoso, estudiante de Ingeniería Comercial, se prepara para un Magíster en Business Analytics en 2025. Es cofundador de Game Time, un emprendimiento que se enfoca en streamings y productos deportivos. Además, es un entusiasta de la filosofía y aboga por la visibilización de problemas como la salud mental entre los jóvenes.",
+      "ex_dt": [{
+        "ex_dt1": "Educación y Emprendimiento",
+        "ex_dt2": "Cursando Ingeniería Comercial y planeando estudiar un Magíster en Business Analytics. Cofundador de Game Time, un emprendimiento dedicado a streamings y productos deportivos."
+      }]
+    }
+    ]
   }
   
